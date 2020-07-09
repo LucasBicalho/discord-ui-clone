@@ -43,6 +43,10 @@ const UserList: React.FC = () => {
       <UserRow nickname="Fulano" />
       <UserRow nickname="Fulano" />
       <UserRow nickname="Fulano" />
+      <UserRow nickname="Fulano" />
+      <UserRow nickname="Fulano" />
+      <UserRow nickname="Fulano" />
+      <UserRow nickname="Fulano" />
     </Container>
   )
 }

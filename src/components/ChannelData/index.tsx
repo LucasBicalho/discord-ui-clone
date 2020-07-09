@@ -30,6 +30,7 @@ const ChannelData: React.FC = () => {
         <ChannelMessage 
           author="Diego Fernandes"
           date="10/06/2020"
+          hasMention
           content={
             <>
               <Mention>@Lucas Bicalho</Mention> parabéns.
